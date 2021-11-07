@@ -32,3 +32,7 @@ Pieces of a larger Financial project. Tools and utilities that can be shared.
 ## Other related repos
 
 - https://github.com/domokane/FinancePy
+
+## Other Resources
+
+- https://financetrain.com/best-python-librariespackages-finance-financial-data-scientists/
